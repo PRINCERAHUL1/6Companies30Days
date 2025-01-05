@@ -16,8 +16,9 @@ This repository serves as:
 ## 🚀 Progress Tracker  
 | Day  | Company      | Status              |  
 |------|--------------|---------------------|  
-| Day 1-5 | Microsoft    |         Solving         |
-| ...  | ...          | ...  
+| Day 1-5 | Microsoft |               ✅    |
+| Day 6-10  | Amazon  |         Solving     |    
+| ...  | ...          | ...                 |
 
 
 ## 🚀 Challenge Timeline  
