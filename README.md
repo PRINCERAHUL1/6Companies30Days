@@ -17,7 +17,7 @@ This repository serves as:
 | Day  | Company      | Status              |  
 |------|--------------|---------------------|  
 | Day 1-5 | Microsoft |               ✅    |
-| Day 6-10  | Amazon  |         Solving     |    
+| Day 6-10  | Amazon  |               ✅    |    
 | ...  | ...          | ...                 |
 
 
