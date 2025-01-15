@@ -18,7 +18,7 @@ This repository serves as:
 |------|--------------|---------------------|  
 | Day 1-5 | Microsoft |               ✅    |
 | Day 6-10  | Amazon  |               ✅    |
-| Day 11-15 | Walmart |           Solving    |
+| Day 11-15 | Walmart |               ✅    |
 | ...  | ...          | ...                 |
 
 
