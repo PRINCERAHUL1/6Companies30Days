@@ -20,6 +20,7 @@ This repository serves as:
 | Day 6-10  | Amazon  |               ✅    |
 | Day 11-15 | Walmart |               ✅    |
 | Day 16-20 | Google |                ✅    |
+| Day 21-25 | Atlassian |           solving    |
 | ...  | ...          | ...                 |
 
 
