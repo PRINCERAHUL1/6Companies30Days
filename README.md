@@ -21,7 +21,8 @@ This repository serves as:
 | Day 11-15 | Walmart |               ✅    |
 | Day 16-20 | Google |                ✅    |
 | Day 21-25 | Atlassian |             ✅    |
-| ...  | ...          | ...                 |
+| Day 26-30 | Goldman Sachs |       Solving  |
+
 
 
 ## 🚀 Challenge Timeline  
