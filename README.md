@@ -1,9 +1,8 @@
 # 🌟 6 Companies 30 Days Challenge 🌟
-
-Welcome to the **6 Companies 30 Days Challenge** repository! This repository is for the **30-day coding challenge** initiated by **Arsh Goyal**, where I am solving curated coding problems to prepare for interviews with top tech companies.  
+Welcome to the **6 Companies 30 Days Challenge** repository! This repository contains my solutions for the **30-day coding challenge** initiated by **Arsh Goyal**, where I solved curated coding problems to prepare for interviews with top tech companies.
 
 ## 🗓 About the Challenge  
-The **6 Companies 30 Days Challenge** is a competitive coding challenge aimed for enhancing problem-solving skills and gain confidence for technical interviews. Over the challenge of 30 days, I will solve **90 problems** divided across six major companies' interview question sets.  
+The **6 Companies 30 Days Challenge** was a competitive coding challenge designed to enhance problem-solving skills and build confidence for technical interviews. Over the challenge of 30 days, I solved **90 problems**, covering interview questions from six major companies.
 
 ## 📂 Repository Purpose  
 This repository serves as:  
@@ -21,7 +20,7 @@ This repository serves as:
 | Day 11-15 | Walmart |               ✅    |
 | Day 16-20 | Google |                ✅    |
 | Day 21-25 | Atlassian |             ✅    |
-| Day 26-30 | Goldman Sachs |       Solving  |
+| Day 26-30 | Goldman Sachs |         ✅    |
 
 
 
